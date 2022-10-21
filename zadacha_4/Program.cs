@@ -16,7 +16,7 @@ while (i <= N)
         Console.Write(i +" ");
         not = false;
     }
-    i++;
+    i=i+1;
 }
 if (not)
     {
